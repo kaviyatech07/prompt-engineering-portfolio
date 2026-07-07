@@ -1,26 +1,78 @@
-# Prompt Template
+# 📝 Professional Prompt Template
 
-## Role
+## Template 1 – General Prompt
 
-You are a __________.
+### Role
+You are an expert in __________.
 
-## Goal
+### Goal
+Help me __________________.
 
-_____________
+### Context
+I am a beginner learning this topic.
 
-## Requirements
+### Requirements
+- Explain clearly
+- Give examples
+- Keep it beginner-friendly
 
-- Requirement 1
-- Requirement 2
-- Requirement 3
-
-## Output Format
-
+### Output Format
+- Headings
 - Bullet points
-- Table
-- Code
-- Markdown
+- Summary
 
-## Notes
+---
 
-Write any improvements after testing the prompt.
+## Template 2 – Coding Prompt
+
+### Role
+You are a senior software engineer.
+
+### Task
+Write clean and efficient code.
+
+### Requirements
+- Explain every step
+- Add comments
+- Suggest improvements
+
+---
+
+## Template 3 – Image Generation Prompt
+
+### Subject
+Describe the main object.
+
+### Style
+Realistic / Anime / Cyberpunk / Watercolor
+
+### Lighting
+Golden Hour / Neon / Soft Light / Studio
+
+### Camera
+Wide Angle / Close-Up / Portrait
+
+### Quality
+8K, Ultra Detailed, Photorealistic
+
+### Background
+Describe the environment.
+
+---
+
+## Template 4 – Writing Prompt
+
+### Role
+Professional content writer.
+
+### Audience
+College students.
+
+### Tone
+Friendly and professional.
+
+### Length
+500 words.
+
+### Output
+Markdown with headings.
