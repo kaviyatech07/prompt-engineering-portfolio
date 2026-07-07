@@ -2,20 +2,29 @@
 
 ## Example 1
 
-### Basic Prompt
+### ❌ Basic Prompt
 
 Explain Python.
 
-### Improved Prompt
+### ✅ Better Prompt
 
 You are a Python instructor.
 
-Explain Python for complete beginners using simple language, real-world examples, and include one small coding exercise.
+Explain Python to a first-year engineering student using simple language, practical examples, and one coding exercise.
 
-### Improvement
+### ⭐ Professional Prompt
 
-The improved prompt provides:
-- A role
-- A target audience
-- A clear output style
-- A practical exercise
+You are a senior Python instructor.
+
+Teach Python basics to a first-year AI & Data Science student.
+
+Requirements:
+- Simple language
+- Real-world examples
+- Practice questions
+- Small project idea
+- Summary at the end
+
+### Lesson Learned
+
+Adding context, audience, and requirements produces better results.
