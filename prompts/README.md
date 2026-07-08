@@ -30,3 +30,21 @@ Each prompt includes:
 - Machine Learning
 - Interview Preparation
 - Research
+## 📂 Project Structure
+
+```text
+prompt-engineering-portfolio/
+├── prompts/
+├── examples/
+├── mini-projects/
+├── templates/
+├── resources/
+└── assets/
+```
+
+## 🚀 Future Improvements
+
+- Add more prompt categories
+- Build a Prompt Library Website
+- Create AI-powered mini projects
+- Publish with GitHub Pages
