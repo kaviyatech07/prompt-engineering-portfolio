@@ -1,13 +1,32 @@
 # 📚 Prompt Library
 
+Welcome to my Prompt Engineering Library.
+
+This folder contains prompt collections that I created and tested while learning Prompt Engineering.
+
 ## Categories
 
-- 💻 Coding
-- 🌐 Web Development
-- 🎨 Image Generation
-- 🎬 Video Editing
-- 📄 Resume
+| Category | Status |
+|----------|--------|
+| 💻 Coding | ✅ Completed |
+| 🌐 Web Development | ✅ Completed |
+| 🎨 Image Generation | ✅ Completed |
+| 🎬 Video Editing | ✅ Completed |
+| 📄 Resume | ✅ Completed |
 
-## Goal
+## Prompt Structure
 
-This folder contains practical prompts that I have tested and documented during my Prompt Engineering learning journey.
+Each prompt includes:
+
+- 🎯 Goal
+- 📝 Prompt
+- 📚 Purpose
+- 💡 Skills Learned
+
+## Future Categories
+
+- Python
+- SQL
+- Machine Learning
+- Interview Preparation
+- Research
