@@ -1,0 +1,14 @@
+# Contributing
+
+Thank you for your interest in contributing!
+
+## Steps
+
+1. Fork the repository.
+2. Create a new branch.
+3. Make your changes.
+4. Commit your changes.
+5. Push the branch.
+6. Open a Pull Request.
+
+Please ensure your contributions improve the project quality and documentation.
