@@ -1,46 +1,85 @@
 # 🚀 Prompt Engineering Portfolio
 
+## 📌 About
+
 Welcome to my Prompt Engineering Portfolio!
 
-## 👋 About Me
+This repository contains practical prompt engineering examples, templates, mini projects, and learning resources for AI tools such as ChatGPT and other large language models.
 
-I am learning Prompt Engineering by practicing real-world prompts and documenting my progress. This repository showcases my experiments, prompt templates, and learning journey.
+The goal of this repository is to showcase my prompt engineering skills through real-world examples and projects.
 
-## 📂 Repository Structure
+---
 
-```text
+## ✨ Features
+
+- Prompt Engineering Examples
+- Coding Prompts
+- Resume Writing Prompts
+- Web Development Prompts
+- Image Generation Prompts
+- Video Editing Prompts
+- Mini AI Projects
+- Prompt Templates
+- Learning Resources
+
+---
+
+## 📁 Project Structure
+
+```
 prompt-engineering-portfolio/
-├── prompts/
+
+├── assets/
+│   └── images/
+
 ├── examples/
-├── templates/
+
+├── mini-projects/
+
+├── prompts/
+
 ├── resources/
-└── assets/
+
+├── templates/
+
+└── README.md
 ```
 
-## 📚 Topics Covered
+---
 
-- 💻 Coding Prompts
-- 🌐 Web Development
-- 🎨 Image Generation
-- ✍️ Writing
-- 📖 Learning Resources
-- 📋 Prompt Templates
-
-## 🎯 My Goals
-
-- Improve prompt writing skills
-- Learn AI tools
-- Build reusable prompt templates
-- Document experiments
-- Share my learning journey
-
-## 🛠 Tools
+## 🛠 Technologies Used
 
 - ChatGPT
-- Google AI Studio
-- Claude
+- Prompt Engineering
+- Markdown
 - GitHub
 
-## 📈 Learning Status
+---
 
-🟢 Beginner | Learning Every Day | Building in Public
+## 🎯 Learning Outcomes
+
+- Better prompt writing
+- AI productivity
+- Structured prompting
+- Real-world prompt design
+- Prompt optimization
+
+---
+
+## 🚀 Future Improvements
+
+- More AI projects
+- Advanced prompting techniques
+- Prompt evaluation examples
+- AI automation prompts
+
+---
+
+## 👩‍💻 Author
+
+**Kaviya S**
+
+B.Tech Artificial Intelligence and Data Science
+
+GitHub:
+https://github.com/kaviyatech07
